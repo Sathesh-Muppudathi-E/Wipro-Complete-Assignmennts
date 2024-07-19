@@ -1,0 +1,14 @@
+
+
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+nav{
+    margin-bottom: 20px;
+}

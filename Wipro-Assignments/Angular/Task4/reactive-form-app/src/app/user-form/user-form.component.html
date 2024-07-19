@@ -1,0 +1,70 @@
+<form [formGroup]="userForm" (ngSubmit)="onSubmit()" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
+  <div>
+    <label for="firstName">First Name</label>
+    <input id="firstName" formControlName="firstName" />
+    <div *ngIf="userForm.get('firstName')!.invalid && userForm.get('firstName')!.touched">
+      <small>Please provide First Name</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="middleName">Middle Name</label>
+    <input id="middleName" formControlName="middleName" />
+  </div>
+
+  <div>
+    <label for="lastName">Last Name</label>
+    <input id="lastName" formControlName="lastName" />
+    <div *ngIf="userForm.get('lastName')!.invalid && userForm.get('lastName')!.touched">
+      <small>Please provide Last Name</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="age">Age</label>
+    <input id="age" formControlName="age" type="number" />
+    <div *ngIf="userForm.get('age')!.invalid && userForm.get('age')!.touched">
+      <small>Required and between 0 to 100</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="dateOfBirth">Date of Birth</label>
+    <input id="dateOfBirth" formControlName="dateOfBirth" type="date" />
+  </div>
+
+  <div>
+    <label for="emailId">Email Id</label>
+    <input id="emailId" formControlName="emailId" type="email" />
+    <div *ngIf="userForm.get('emailId')!.invalid && userForm.get('emailId')!.touched">
+      <small *ngIf="userForm.get('emailId')!.hasError('required')">Please provide Email Id</small>
+      <small *ngIf="userForm.get('emailId')!.hasError('email')">Email id must be valid</small>
+      <small *ngIf="userForm.get('emailId')!.hasError('emailDomain')">Email domain must be valid.com</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="country">Country</label>
+    <select id="country" formControlName="country">
+      <option value="" disabled>Select Country</option>
+      <option value="USA">USA</option>
+      <option value="Canada">Canada</option>
+      <option value="UK">UK</option>
+    </select>
+  </div>
+
+  <div>
+    <label>Gender</label>
+    <input type="radio" formControlName="gender" value="Male" /> Male
+    <input type="radio" formControlName="gender" value="Female" /> Female
+    <div *ngIf="userForm.get('gender')!.invalid && userForm.get('gender')!.touched">
+      <small>Please select gender</small>
+    </div>
+  </div>
+
+  <!-- Empty grid cells for layout -->
+  <div class="form-group">
+  
+  <button type="submit">Submit</button>
+  </div>
+</form>

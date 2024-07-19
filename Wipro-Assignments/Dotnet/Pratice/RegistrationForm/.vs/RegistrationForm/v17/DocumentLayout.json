@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|c:\\wipro-assignments\\dotnet\\pratice\\registrationform\\registrationform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|c:\\wipro-assignments\\dotnet\\pratice\\registrationform\\registrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|c:\\wipro-assignments\\dotnet\\pratice\\registrationform\\registrationform\\registrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\registrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|c:\\wipro-assignments\\dotnet\\pratice\\registrationform\\registrationform\\registrationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\registrationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|c:\\wipro-assignments\\dotnet\\pratice\\registrationform\\registrationform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42AE6F04-5FDE-497E-9799-8F77C11E9681}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationContext.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\RegistrationContext.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\RegistrationContext.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\RegistrationContext.cs",
+              "RelativeToolTip": "RegistrationForm\\RegistrationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:32:27.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationDetail.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\RegistrationDetail.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\RegistrationDetail.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\RegistrationDetail.cs",
+              "RelativeToolTip": "RegistrationForm\\RegistrationDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:31:37.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RegistrationForm\\MainWindow.xaml",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\MainWindow.xaml",
+              "RelativeToolTip": "RegistrationForm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T10:57:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RegistrationForm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:57:02.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5a26c20f-3dab-4708-bb5b-bb08b6034594",
+        "Display": 0,
+        "X": 7,
+        "Y": 70,
+        "Width": 999,
+        "Height": 653,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\App.config",
+              "RelativeDocumentMoniker": "RegistrationForm\\App.config",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\RegistrationForm\\RegistrationForm\\App.config",
+              "RelativeToolTip": "RegistrationForm\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T12:12:47.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

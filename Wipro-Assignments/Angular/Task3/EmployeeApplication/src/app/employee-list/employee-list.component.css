@@ -1,0 +1,33 @@
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    }
+    
+    
+    table {
+        width:100%;
+        border-collapse: collapse;
+        margin:0 auto
+    }
+    th,td{
+        border: 1px solid black;
+        padding:8px;
+        text-align: left;
+        font-size: 16px;
+    }
+
+
+.red-bg{
+    background-color: red;
+}
+.green-bg{
+    background-color: green;
+}

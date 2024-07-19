@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|solutionrelative:empolyee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|Solution Items{58E54EC6-9878-4DEE-B5DE-00F0C1034767}|solutionrelative:empolyee_data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empolyee_data.html",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_data.html",
+              "RelativeDocumentMoniker": "empolyee_data.html",
+              "ToolTip": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_data.html",
+              "RelativeToolTip": "empolyee_data.html",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T13:02:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empolyee_form.html",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_form.html",
+              "RelativeDocumentMoniker": "empolyee_form.html",
+              "ToolTip": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\empolyee_form.html",
+              "RelativeToolTip": "empolyee_form.html",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T13:01:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "C:\\Wipro-Assignments\\HTML-Css-Javascript\\Day1\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T13:01:22.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|c:\\wipro-assignments\\web_application\\webapplication1\\webapplication1\\models\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF22E7-588F-4ED7-A077-ED39D30E395B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Success.cshtml",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\Success.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T12:08:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\List.cshtml",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\List.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T11:57:52.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T09:59:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwFwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T09:50:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:46:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Models\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\EmployeeForm.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Web_Application\\WebApplication1\\WebApplication1\\Models\\EmployeeForm.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\EmployeeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:44:54.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

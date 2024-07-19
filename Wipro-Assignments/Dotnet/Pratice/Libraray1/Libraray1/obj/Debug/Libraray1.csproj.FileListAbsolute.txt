@@ -1,0 +1,7 @@
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\bin\Debug\Libraray1.exe.config
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\bin\Debug\Libraray1.exe
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\bin\Debug\Libraray1.pdb
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\obj\Debug\Libraray1.csproj.AssemblyReference.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\obj\Debug\Libraray1.csproj.CoreCompileInputs.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\obj\Debug\Libraray1.exe
+C:\Wipro-Assignments\Dotnet\Pratice\Libraray1\Libraray1\obj\Debug\Libraray1.pdb

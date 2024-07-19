@@ -1,0 +1,72 @@
+<h3>Create form</h3>
+<div style="margin: 50px;">
+    <form  #empform="ngForm" (ngSubmit)="getData(empform)" >
+<div class="mb-3 row">
+    <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="text" required name="emailid" [(ngModel)]="emp.emailid" 
+      class="form-control" #emailControl="ngModel" id="email" value="">
+    </div>
+    <span style="color:red;" *ngIf="emailControl.invalid==true && emailControl.touched==true">
+      EmailId is invalid
+    </span>
+  </div>
+   <div class="mb-3 row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" [(ngModel)]="emp.password" name="password" 
+      class="form-control" #passwordControl="ngModel" id="Password">
+    </div>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="radio" name="gender" value="male" [(ngModel)]="emp.gender">
+    <label class="form-check-label" for="flexRadioDefault1">
+      Male
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="radio" name="gender" value="female" [(ngModel)]="emp.gender" checked>
+    <label class="form-check-label" for="flexRadioDefault2">
+      Female
+    </label>
+  </div>
+  <select class="form-select" name="country" [(ngModel)]="country" aria-label="Default select example">
+    <option selected>Selectthe Country</option>
+    <option value="1">USA</option>
+    <option value="2">UK</option>
+    <option value="3">INDIA</option>
+    <option value="4">Auatralia</option>
+  </select>
+  <input type="submit" [disabled]="empform.invalid" value="Save"/>
+</form>
+</div>
+<!-- <span>{{}}</span> -->
+
+<!-- Touched
+ Untouched
+
+ pristine
+ dirty
+
+ valid
+ invalid
+  -->
+ <h3>Form Level</h3>
+  <table  border="1" class="table table-success">
+    <tr>
+      <td>Touched</td>
+      <td>Un-Touched</td>
+      <td>Pristine</td>
+      <td>Dirty</td>
+      <td>Valid</td>
+      <td>invalid</td>
+    </tr>
+    <tr>
+      <td>{{empform.touched}}</td>
+      <td>{{empform.untouched}}</td>
+      <td>{{empform.dirty}}</td>
+      <td>{{empform.pristine}}</td>
+      <td>{{empform.valid}}</td>
+      <td>{{empform.invalid}}</td>
+    </tr>
+  </table>

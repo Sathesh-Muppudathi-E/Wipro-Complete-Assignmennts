@@ -1,0 +1,14 @@
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\bin\Debug\net8.0\Day2.exe
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\bin\Debug\net8.0\Day2.deps.json
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\bin\Debug\net8.0\Day2.dll
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\bin\Debug\net8.0\Day2.pdb
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.dll
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\refint\Day2.dll
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.pdb
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll

@@ -1,0 +1,22 @@
+.highlight-red {
+    background-color: hwb(0 22% 12%);
+    color: white;
+  }
+  
+  .highlight-green {
+    background-color: rgb(30, 114, 30);
+    color: white;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  h3{
+    text-align: center;
+  }

@@ -1,0 +1,114 @@
+﻿@model EmployeeFormApp.Models.EmployeeForm
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create" method="post" class="user-form">
+    <div class="form-row">
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MiddleName"></label>
+            <input asp-for="MiddleName" />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group">
+            <label asp-for="Age"></label>
+            <input asp-for="Age" type="number" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="DateOfBirth"></label>
+            <input asp-for="DateOfBirth" type="date" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Country"></label>
+            <select asp-for="Country">
+                <option value="India">India</option>
+                <option value="Singapore">Singapore</option>
+                <option value="Hongkong">Hongkong</option>
+                <option value="paris">paris</option>
+
+            </select>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group">
+            <label asp-for="EmailId"></label>
+            <input asp-for="EmailId" type="email" />
+            <span asp-validation-for="EmailId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Gender"></label>
+            <div>
+                <input asp-for="Gender" type="radio" value="Male" /> Male
+                <input asp-for="Gender" type="radio" value="Female" /> Female
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group">
+            <button type="submit">Submit</button>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .user-form {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+    }
+
+    .form-row {
+        display: contents;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 0.5rem;
+            box-sizing: border-box;
+        }
+
+        .form-group .text-danger {
+            color: red;
+            font-size: 0.875rem;
+        }
+
+        .form-group button {
+            padding: 0.5rem 1rem;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+            .form-group button:hover {
+                background-color: #0056b3;
+            }
+</style>

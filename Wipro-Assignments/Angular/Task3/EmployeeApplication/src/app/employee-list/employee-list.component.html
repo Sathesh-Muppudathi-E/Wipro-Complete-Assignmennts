@@ -1,0 +1,20 @@
+<h2>Employee List</h2>
+
+<table>
+<tr>
+    <th>firstName</th>
+    <th>LastName</th>
+    <th>Gender</th>
+    <th>Salary</th>
+    <th>Country</th>
+</tr>
+
+
+    <tr *ngFor="let employee of employees"[ngClass]="{'red-bg':employee.salary < 5000,'green-bg':employee.salary >= 5000}">
+        <td>{{employee.firstName | title : employee.gender}}</td>
+        <td>{{employee.lastName}}</td>
+        <td>{{employee.gender}}</td>
+        <td>{{employee.salary}}</td>
+        <td>{{employee.country}}</td>
+    </tr>
+</table>

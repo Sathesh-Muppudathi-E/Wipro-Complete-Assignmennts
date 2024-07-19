@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|c:\\wipro-assignments\\dotnet\\pratice\\day4\\day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|solutionrelative:day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|c:\\wipro-assignments\\dotnet\\pratice\\day4\\day4\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|solutionrelative:day4\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|c:\\wipro-assignments\\dotnet\\pratice\\day4\\day4\\hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BFC114-B7DB-4F92-AD61-8F6FA6DE88AA}|Day4\\Day4.csproj|solutionrelative:day4\\hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Interface.cs",
+              "RelativeDocumentMoniker": "Day4\\Interface.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Interface.cs",
+              "RelativeToolTip": "Day4\\Interface.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:08:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Employee.cs",
+              "RelativeDocumentMoniker": "Day4\\Employee.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Employee.cs",
+              "RelativeToolTip": "Day4\\Employee.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:05:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hiding.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Hiding.cs",
+              "RelativeDocumentMoniker": "Day4\\Hiding.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day4\\Day4\\Hiding.cs",
+              "RelativeToolTip": "Day4\\Hiding.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:04:08.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

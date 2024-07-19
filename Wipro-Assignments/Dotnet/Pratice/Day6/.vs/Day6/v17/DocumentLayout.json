@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F0A4DF-DF0D-4EFC-9CF2-9E3D4253A450}|Day6\\Day6.csproj|c:\\wipro-assignments\\dotnet\\pratice\\day6\\day6\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F0A4DF-DF0D-4EFC-9CF2-9E3D4253A450}|Day6\\Day6.csproj|solutionrelative:day6\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lock.cs",
+              "DocumentMoniker": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day6\\Day6\\lock.cs",
+              "RelativeDocumentMoniker": "Day6\\lock.cs",
+              "ToolTip": "C:\\Wipro-Assignments\\Dotnet\\Pratice\\Day6\\Day6\\lock.cs",
+              "RelativeToolTip": "Day6\\lock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:31:56.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

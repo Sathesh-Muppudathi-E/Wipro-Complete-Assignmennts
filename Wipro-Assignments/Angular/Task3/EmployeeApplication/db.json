@@ -1,0 +1,8 @@
+{
+    "employees":[
+        {"firstName":"Divya","lastName":"reddy","gender":"female","salary":9000,"country":"USA"},
+        {"firstName":"sowmith","lastName":"reddy","gender":"male","salary":4000,"country":"UK"},
+        {"firstName":"john","lastName":"doe","gender":"male","salary":7000,"country":"Aus"}
+
+    ]
+}

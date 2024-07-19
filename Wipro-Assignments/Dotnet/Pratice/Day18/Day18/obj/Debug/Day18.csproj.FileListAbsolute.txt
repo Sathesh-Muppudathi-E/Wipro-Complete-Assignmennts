@@ -1,0 +1,15 @@
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.csproj.AssemblyReference.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\Day18.exe.config
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\Day18.exe
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\Day18.pdb
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\EntityFramework.dll
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\EntityFramework.xml
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.csproj.Up2Date
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.exe
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.pdb
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.Migrations.InitialCreate.resources
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.csproj.GenerateResource.cache
+C:\Wipro-Assignments\Dotnet\Pratice\Day18\Day18\obj\Debug\Day18.Migrations.Blogging.resources
